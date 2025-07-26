@@ -6,8 +6,6 @@ SELECT * FROM store;
 SELECT * FROM film;
 
 
-
-
 -- -- Objective 2: Film Inventory Optimization
 -- 1. Which films are understocked at each store compared to demand?
 
